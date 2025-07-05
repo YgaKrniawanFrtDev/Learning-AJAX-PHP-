@@ -1,0 +1,3 @@
+anjay mabar
+
+oke kemudian saya ingin membuat sebuah fitur kayak check list pilih data gitu, misal nya di samping navbar terdapat tombol yang jika di klik maka semua data di aksi nya ada kayak check box gitu  di smua data kemudian saya ingin membuat fitur nya itu adalah hapus data sesuai yang di checklist kayak kemudian data nya terhapus sesuai data yang sudah di checklist misal saya check list 2 maka yang terhapus juga dua user yang sudah saya check list tsb

@@ -1,0 +1,48 @@
+body {
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh; 
+
+}
+
+
+
+.container h2{
+    font-family: retro;
+    font-size: 50px;
+    
+}
+
+
+.card{
+    background: rgba(255, 255, 255, 0.1); /* transparan putih */
+    border-radius: 16px;
+    backdrop-filter: blur(10px); /* efek blur utama */
+    -webkit-backdrop-filter: blur(10px); /* buat Safari */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* garis luar transparan */
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); /* bayangan lembut */
+    width: 500px;
+    height: auto;
+    justify-content: center;
+    margin: auto;
+}
+
+#form-daftar button {
+    font-family: tektur;
+}
+
+
+
+label {
+    font-family: tektur;
+    font-weight: bold;
+}
+
+
+
+@font-face {
+    font-family: retro;
+    src: url('../font/O.K.Retro.otf');
+}
+
